@@ -4,7 +4,9 @@
 Potato-Antivirus — это легковесный комплекс мониторинга и защиты от локальных DoS-атак (форк-бомб). Создан для тех, чьи компьютеры не тянут тяжелые антивирусы, но требуют контроля над системными ресурсами.
 
 ---
-🛡️ **Developed by:** [boiledbrother](https://github.com)
+🛡️ **Developed by:** [boiledbrother](https://github.com/boiledbrother)
+🍴 **Forked by:**
+[unknowncircle13](https://github.com/unknowncircle13)
 💬 **Community & Support:** [Join our Discord](https://discord.gg/vcZ5JDMj)
 ---
 
@@ -26,4 +28,4 @@ Potato-Antivirus — это легковесный комплекс монито
 
 ---
 *Stay Potato, Stay Safe.*  
-`Watermark: boiledbrother-github`
+`Watermark: boiledbrother-and-unknowncircle13-github`
